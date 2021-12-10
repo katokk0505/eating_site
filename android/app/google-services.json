@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70852175798",
+    "project_id": "eatingsite-22f02",
+    "storage_bucket": "eatingsite-22f02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70852175798:android:e67340fd2d0e7e0ee80317",
+        "android_client_info": {
+          "package_name": "com.example.synergy_kadai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70852175798-5pjt9c2k9n8011vgju5qbvotj1egn5ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKU_zu4mR8aShSjO0moL6c6rIqvSi_E9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70852175798-5pjt9c2k9n8011vgju5qbvotj1egn5ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
